@@ -27,7 +27,8 @@ a:hover {
 }
 
 .container {
-  width: 55%;
+  width: 95%;
+  max-width: 850px;
   margin: 0 auto;
 }
 
